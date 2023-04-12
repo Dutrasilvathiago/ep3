@@ -6,7 +6,11 @@ body{
     background-size: cover;
     color: aliceblue;
     font-size: 22px;
+    box-shadow: 2px 2px 100px 10px #0f0f0f;
 }
-.figcaption{
-    
+ul{
+    list-style-type:none;
+}
+.fundo2{
+    background: hsla(0, 0%, 9%, 0.705);
 }
