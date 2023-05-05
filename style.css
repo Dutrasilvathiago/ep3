@@ -10,6 +10,7 @@ body{
 }
 ul{
     list-style-type:none;
+    background-color: black;
 }
 .fundo2{
     background: hsla(0, 0%, 9%, 0.705);
@@ -22,7 +23,7 @@ cursor: pointer;
 user-select: none;
 }
 .logo{
-width: 20%;
+width: 17%;
 border-radius: 50%;
 }
 .img{
