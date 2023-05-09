@@ -10,7 +10,6 @@ body{
 }
 ul{
     list-style-type:none;/*tira os detalhes dos itens da lista*/
-    background-color: black;/*deixa a cor do fundo preta*/
 }
 .fundo2{
     background: hsla(0, 0%, 9%, 0.705);/*serva para deixar um fundo fosco para as letras*/
