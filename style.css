@@ -1,22 +1,22 @@
 body{
-    text-align: center;
-    background-image: url(imagens/selvin.jpg);
-    background-attachment:fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: aliceblue;
-    font-size: 22px;  
-    margin: 20%;
+    text-align: center; /*serve para alinhar o texto*/
+    background-image: url(imagens/selvin.jpg); /*serve para por a imagem de fundo*/
+    background-attachment:fixed;/*fixa a imagem de fundo*/
+    background-repeat: no-repeat;/*faz a imagem de fundo não fica repetida*/
+    background-size: cover;/*faz a imagem do fundo cobrir a tela toda*/
+    color: aliceblue;/**/
+    font-size: 22px;  /*aumenta as letras dos textos*/
+    margin: 20%;/*colola uma margem no HTML*/
 }
 ul{
-    list-style-type:none;
-    background-color: black;
+    list-style-type:none;/*tira os detalhes dos itens da lista*/
+    background-color: black;/*deixa a cor do fundo preta*/
 }
 .fundo2{
-    background: hsla(0, 0%, 9%, 0.705);
+    background: hsla(0, 0%, 9%, 0.705);/*serva para deixar um fundo fosco para as letras*/
 }
 .barra ul li{
-    display: inline;
+    display: inline;/*serve deixar os itens da lista um do lado do outro*/
 
  padding:20px 20px 20px 20px;
 cursor: pointer;
@@ -24,8 +24,8 @@ user-select: none;
 }
 .logo{
 width: 17%;
-border-radius: 50%;
+border-radius: 50%;/*serve para deixar a imagem redonda*/
 }
 .img{
-    height: 400px;
+    height: 400px;/*serve para aumentar a imagem*/
 }
