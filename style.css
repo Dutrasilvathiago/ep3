@@ -6,7 +6,7 @@ body{
     background-size: cover;/*faz a imagem do fundo cobrir a tela toda*/
     color: aliceblue;/**/
     font-size: 22px;  /*aumenta as letras dos textos*/
-    margin: 20%;/*colola uma margem no HTML*/
+    margin: 10%;/*colola uma margem no HTML*/
 }
 ul{
     list-style-type:none;/*tira os detalhes dos itens da lista*/
@@ -27,4 +27,7 @@ border-radius: 50%;/*serve para deixar a imagem redonda*/
 }
 .img{
     height: 400px;/*serve para aumentar a imagem*/
+}
+ header div ul li{
+    background: #0080007a;
 }
