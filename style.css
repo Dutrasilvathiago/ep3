@@ -18,8 +18,7 @@ ul{
     display: inline;/*serve deixar os itens da lista um do lado do outro*/
 
  padding:20px 20px 20px 20px;
-cursor: pointer;
-user-select: none;
+
 }
 .logo{
 width: 17%;
