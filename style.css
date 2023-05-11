@@ -6,7 +6,6 @@ body{
     background-size: cover;/*faz a imagem do fundo cobrir a tela toda*/
     color: aliceblue;/**/
     font-size: 22px;  /*aumenta as letras dos textos*/
-    margin: 10%;/*colola uma margem no HTML*/
 }
 ul{
     list-style-type:none;/*tira os detalhes dos itens da lista*/
@@ -14,19 +13,25 @@ ul{
 .fundo2{
     background: hsla(0, 0%, 9%, 0.705);/*serva para deixar um fundo fosco para as letras*/
 }
-.barra ul li{
+.barra ul li {
     display: inline;/*serve deixar os itens da lista um do lado do outro*/
-
- padding:20px 20px 20px 20px;
-
+    padding:20px 20px 20px 20px;
+    
 }
 .logo{
 width: 17%;
 border-radius: 50%;/*serve para deixar a imagem redonda*/
+text-align: left;
 }
 .img{
     height: 400px;/*serve para aumentar a imagem*/
 }
- header div ul li{
-    background: #0080007a; /*coloca um fundo verde fosco nos itens de lista do header*/
+main{
+    margin: 60px;
+}
+.barra ul li a{
+    background-color: black;
+    color: lightgreen;
+    padding:0px 100px 10px 100px;
+    font-size: 30px;
 }
