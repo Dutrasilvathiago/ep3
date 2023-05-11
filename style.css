@@ -28,5 +28,5 @@ border-radius: 50%;/*serve para deixar a imagem redonda*/
     height: 400px;/*serve para aumentar a imagem*/
 }
  header div ul li{
-    background: #0080007a;
+    background: #0080007a; /*coloca um fundo verde fosco nos itens de lista do header*/
 }
